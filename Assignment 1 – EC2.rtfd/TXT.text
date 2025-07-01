@@ -1,0 +1,6 @@
+
+1. Create an instance in the US-East-1 (N. Virginia) region with an Ubuntu\
+OS and install Nginx for making them web servers.\
+
+2. Change the default website with a page displaying the message: \'93Hello\
+World\'94\
